@@ -17,3 +17,5 @@ ro.lmk.log_stats=true
 
 # IORap
 iorapd.readahead.enable=true
+# Shutdown
+ro.build.shutdown_timeout=2
